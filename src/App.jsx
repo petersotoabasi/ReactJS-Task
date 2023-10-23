@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Hero from './Component/Hero';
 import "./App.css";
+import CounterButton from './Component/CounterButton';
 
 
 export default class  extends Component {
@@ -8,6 +9,9 @@ export default class  extends Component {
     return (
       <div>
         <Hero/>
+      
+        {/* <CounterButton/> */}
+        
       </div>
     )
   }

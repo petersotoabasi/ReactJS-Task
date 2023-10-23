@@ -41,7 +41,7 @@
   color: #888;
 }
 .hero-img{
-  background-image: url("../src//assets/PLANT\ IMAGE.jpg");
+  background-image: url("../src/assets/PLANT\ IMAGE.jpg");
   background-position: center;
   background-size: cover;
   height: 105vh;
@@ -54,7 +54,7 @@
 
 @media screen and (max-width: 767px) {
   .hero-img{
-    background-image: url("../src//assets/PLANT\ IMAGE.jpg");
+    background-image: url("../src/assets/PLANT\ IMAGE.jpg");
     background-position: center;
     background-size: cover;
     height: 120vh;
